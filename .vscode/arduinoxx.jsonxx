@@ -1,0 +1,6 @@
+{
+    "board": "arduino:avr:nano",
+    "port": "/dev/ttyS2",
+    "programmer": "avrisp",
+    "sketch": "areader.ino"
+}
